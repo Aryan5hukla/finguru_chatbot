@@ -19,5 +19,6 @@ FinGuru Chatbot is a simple finance coaching chatbot built with Flask that uses 
 
 [Deployed Link](https://finguru.vercel.app/)
 ---
-## preview :
+
+## Preview :
 ![image](https://github.com/user-attachments/assets/178fac15-64a7-454e-aedf-7a1154d3bab3)
