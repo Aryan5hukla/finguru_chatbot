@@ -17,7 +17,7 @@ FinGuru Chatbot is a simple finance coaching chatbot built with Flask that uses 
 - **WSGI Server (Production)**: Gunicorn is used as a production-grade WSGI server to efficiently run the Flask app.
 - **Vercel**: the project is deployed as a serverless function on Vercel using a custom configuration.
 
-[Deployed Link](https://finguru.vercel.app/))
+[Deployed Link](https://finguru.vercel.app/)
 ---
 ## preview :
 ![image](https://github.com/user-attachments/assets/178fac15-64a7-454e-aedf-7a1154d3bab3)
